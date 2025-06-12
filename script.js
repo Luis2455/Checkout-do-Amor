@@ -9,6 +9,6 @@ document.querySelector("#loveForm").addEventListener("submit", function(event) {
     // Aguarda 3 segundos e redireciona
     setTimeout(function() {
         console.log("Redirecionando...");
-        window.location.href = "https://www.thefactsite.com/wp-content/uploads/2020/01/what-is-love.jpg";
+        window.location.href = "https://luis2455.github.io/pagamento-aprovado/";
     }, 3000);
 });
